@@ -5,7 +5,7 @@
 <img width="auto" height="300" src="Img/mobFreakoutLonger.gif"/>
 </div>
 </div>
-<h1 align="center">Hi 👋, I'm Shaon An Nafi</h1>
+<h1 align="center">Hi 👋, I'm Sakuno</h1>
 <h3 align="center">I am Computer Science Student</h3>
 <p align="center">- 🌱 I’m currently learning <strong>JavaScript<strong></p>
 <h3 align="center">Connect with me:</h3>
