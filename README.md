@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 <br>
 <div align="center">
-<img style="hight:200px width=100%" src="Img/mobFreakoutLonger.gif"/>
+<img width="auto" height="300" src="Img/mobFreakoutLonger.gif"/>
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Shaon An Nafi</h1>
