@@ -24,12 +24,8 @@
 
 ## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19929](https://github.com/timburgan/timburgan/issues/19929) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 💪 Opened PR [#1](https://github.com/piyaaaa/software-project--II/pull/1) in [piyaaaa/software-project--II](https://github.com/piyaaaa/software-project--II)
-3. 💪 Opened PR [#2](https://github.com/Hamim104/Test/pull/2) in [Hamim104/Test](https://github.com/Hamim104/Test)
-4. 💪 Opened PR [#1](https://github.com/Hamim104/Test/pull/1) in [Hamim104/Test](https://github.com/Hamim104/Test)
-<!--END_SECTION:activity-->
+[comment]: <> (<!--START_SECTION:activity-->)
+[comment]: <> (<!--END_SECTION:activity-->)
 
 <!--START_SECTION:waka-->
 
