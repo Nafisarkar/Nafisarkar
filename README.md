@@ -30,12 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             45 mins         ████████████████████▓░░░░   83.01 %
-Text             7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-C                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-ObjectiveC       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
