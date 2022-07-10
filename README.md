@@ -30,10 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C      23 mins         ███████████████▒░░░░░░░░░   61.22 %
-Text   14 mins         █████████░░░░░░░░░░░░░░░░   36.57 %
-C++    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
