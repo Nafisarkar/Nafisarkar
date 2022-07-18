@@ -30,7 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C        6 mins          █████████░░░░░░░░░░░░░░░░   35.41 %
+Python   6 mins          ████████▓░░░░░░░░░░░░░░░░   34.86 %
+JSON     5 mins          ███████░░░░░░░░░░░░░░░░░░   28.47 %
+C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
