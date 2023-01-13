@@ -30,7 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python                12 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
+C                     9 mins          ███████░░░░░░░░░░░░░░░░░░   27.58 %
+C++                   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+Sublime Text Config   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+JSON                  2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Perl                  1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
