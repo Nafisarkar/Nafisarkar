@@ -30,7 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XML          1 hr 20 mins    ████████████████████████▒   97.34 %
+Java         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
