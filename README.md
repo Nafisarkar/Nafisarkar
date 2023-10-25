@@ -30,7 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              6 mins          ████████████▓░░░░░░░░░░░░   50.39 %
+Java             6 mins          ████████████░░░░░░░░░░░░░   48.62 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
