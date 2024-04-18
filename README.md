@@ -30,7 +30,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+Python   3 mins          █████████████████████▓░░░   86.52 %
+Git      0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
 ```
 
 <!--END_SECTION:waka-->
