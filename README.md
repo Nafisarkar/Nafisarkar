@@ -6,7 +6,7 @@
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Sakuno</h1>
-## :zap: Recent Activity
+:zap: Recent Activity
 
 <!--START_SECTION:waka-->
 
