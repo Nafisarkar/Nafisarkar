@@ -6,10 +6,7 @@
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Sakuno</h1>
-<h3 align="center">I am a Computer Science Student</h3>
-<h3 align="center">Connect with me:</h3>
 ## :zap: Recent Activity
-
 [comment]: <> (<!--START_SECTION:activity-->)
 [comment]: <> (<!--END_SECTION:activity-->)
 
