@@ -6,6 +6,7 @@
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Sakuno</h1>
+[![wakatime](https://wakatime.com/badge/user/e3a642d7-7161-4dbd-885c-ac629d878d8c.svg)](https://wakatime.com/@e3a642d7-7161-4dbd-885c-ac629d878d8c)
 ## :zap: Recent Activity
 [comment]: <> (<!--START_SECTION:activity-->)
 [comment]: <> (<!--END_SECTION:activity-->)
