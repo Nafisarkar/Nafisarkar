@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   48 mins         █████████████████████▓░░░   86.81 %
-Dart     7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
