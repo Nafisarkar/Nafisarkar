@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     2 hrs 48 mins   ████████████████████░░░░░   80.25 %
-YAML     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-XML      10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Groovy   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Kotlin   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
