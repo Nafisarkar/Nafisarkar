@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   33 mins         ████████████▓░░░░░░░░░░░░   50.93 %
-C++          27 mins         ██████████▒░░░░░░░░░░░░░░   41.33 %
-Other        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
