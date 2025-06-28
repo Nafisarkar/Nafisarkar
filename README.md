@@ -2,7 +2,7 @@
 
 **Software Engineer | Dhaka, Bangladesh**
 
-🔗 [Portfolio](https://github.com/Nafisarkar) <br>
+🔗 [Portfolio](https://www.shaonannafi.me/) <br>
 🔭 Currently working on full-stack web applications  
 🌱 Currently learning new technologies and exploring modern frameworks
 
