@@ -42,9 +42,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Nafis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisarkar&show_icons=true&theme=dracula&hide_border=true)
+![Nafis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisarkar&show_icons=true&theme=dracula&hide_border=true) -->
 
 ## Weekly Coding Activity
 
@@ -59,3 +59,7 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nafisarkar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nafisarkar?label=FOLLOWERS&style=for-the-badge&color=orange" alt="GitHub Followers" />
+</div>
