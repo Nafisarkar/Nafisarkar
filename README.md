@@ -1,10 +1,12 @@
 # Hi, I'm Shaon An Nafi
 
 **Software Engineer | Dhaka, Bangladesh**
+<img align="right" alt="Sleeping Cat" width="100" src="Img/catsleep.gif" />
 
 🔗 [Portfolio](https://www.shaonannafi.me/) <br>
 🔭 Currently working on full-stack web applications  
 🌱 Currently learning new technologies and exploring modern frameworks
+<br clear="right"/>
 
 ## Tech Stack
 
