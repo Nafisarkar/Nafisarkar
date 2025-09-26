@@ -69,11 +69,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 13 mins   ████████████████████▓░░░░   82.11 %
-Rust         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
