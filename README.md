@@ -1,71 +1,55 @@
-# Hi, I'm Shaon An Nafi
+# Hi, I'm Shaon An Nafi 👋
 
-**Software Engineer | Dhaka, Bangladesh**
+<sub>
+<b>Software Engineer</b> &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩 &nbsp;·&nbsp; 🔗&nbsp;<a href="https://www.shaonannafi.pro.bd/">Portfolio</a> &nbsp;·&nbsp; ⏱&nbsp;<a href="https://wakatime.com/@Nafisarkar">WakaTime</a>
+</sub>
+<br/>
+<br/>
+
+
+
+
 <img align="right" alt="Sleeping Cat" width="100" src="Img/catsleep.gif" />
 
-🔗 [Portfolio](https://www.shaonannafi.pro.bd/) <br>
 <br clear="right"/>
+
 
 ## Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Ratatui](https://img.shields.io/badge/Ratatui-000000?style=for-the-badge&logo=ratatui&logoColor=white)
 
 **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-52B0E7?logo=PocketBase&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)
-![Hono](https://img.shields.io/badge/hono-%23E36002?logo=hono&logoColor=fff)
-![Hono](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-<!-- ## GitHub Stats
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Nafis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafisarkar&show_icons=true&theme=dracula&hide_border=true) -->
 
-## Weekly Coding Activity
+## Coding Activity
+<img src="https://wakatime.com/badge/user/e3a642d7-7161-4dbd-885c-ac629d878d8c.svg?style=for-the-badge&color=000000&labelColor=000000" alt="Total time coded since Feb 26 2022" />
 
-<!--START_SECTION:waka-->
 
-```javascript
-From: 09 October 2026 - To: 16 October 2026
+<!--
+## 📈 GitHub Stats
 
-Total Time: 23 hrs 48 mins
-
-Rust          16 hrs 56 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.92 %
-Markdown      2 hrs 27 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.70 %
-Other         1 hr 30 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.98 %
-```
-
-<!--END_SECTION:waka-->
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nafisarkar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nafisarkar?label=FOLLOWERS&style=for-the-badge&color=orange" alt="GitHub Followers" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Nafisarkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Nafisarkar&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" width="49%" />
+-->
