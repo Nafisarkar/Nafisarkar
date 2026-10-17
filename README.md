@@ -3,8 +3,6 @@
 <sub>
 <b>Software Engineer</b> &nbsp;·&nbsp; Dhaka, Bangladesh 🇧🇩 &nbsp;·&nbsp; 🔗&nbsp;<a href="https://www.shaonannafi.pro.bd/">Portfolio</a> &nbsp;·&nbsp; ⏱&nbsp;<a href="https://wakatime.com/@Nafisarkar">WakaTime</a>
 </sub>
-<br/>
-<br/>
 
 
 
